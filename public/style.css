@@ -1,0 +1,36 @@
+.gray {
+    background-color: gray;
+}
+
+.container {
+    padding: 100px;
+}
+
+body {
+    background-color: #253159;
+    text-align: center;
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif; 
+}
+
+button {
+    background-color: rgb(224, 142, 34);
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Barlow Semi Condensed', sans-serif; 
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+input {
+    padding: 12px 20px;
+    margin: auto;
+    border: 2px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    display: block;
+    font-family: 'Barlow Semi Condensed', sans-serif;  
+}
